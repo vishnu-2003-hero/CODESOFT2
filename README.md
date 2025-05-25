@@ -1,2 +1,2 @@
 # CODESOFT2
-Data Science project
+Sales Prediction project
